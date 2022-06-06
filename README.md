@@ -28,5 +28,5 @@ It's the table connected directly with the database and shows real time informat
  
  Modify, move or delete records
 
-![](Records1.gif)
+![](Records.gif)
 

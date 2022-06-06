@@ -10,7 +10,6 @@ LIBRARIES USED:
   - Os
   - Seaborn
   - Pandas
-  - Garbage Collector
 
 ## LOGIN WINDOW
 
@@ -25,4 +24,9 @@ It's the table connected directly with the database and shows real time informat
 
 ![](Table1.gif)
 
-  
+ ## DATABASE MANAGEMENT
+ 
+ Modify, move or delete records
+
+![](Records1.gif)
+

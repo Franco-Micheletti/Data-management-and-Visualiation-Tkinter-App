@@ -19,5 +19,10 @@ By default an Admin user should exist in order to change, modify or create new u
 
 ![](Login.gif)
 
+## RECORDS'S TABLE
+
+It's the table connected directly with the database and shows real time information.
+
+![](Table1.gif)
 
   

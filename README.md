@@ -13,8 +13,7 @@ LIBRARIES USED:
 
 ## LOGIN WINDOW
 
-Users log in with their username and password. This information exist in a database and its compared to the information the user insert in the text entry.
-By default an Admin user should exist in order to change, modify or create new users. This may be changed for different purposes.
+Users log in with their username and password. This information exists in a database and is compared with the information that the user entered in the text input. By default, an administrator user must exist to be able to change, modify or create new users. This can be changed for different purposes.
 
 ![](Login1.gif)
 
@@ -26,7 +25,7 @@ It's the table connected directly with the database and shows real time informat
 
  ## DATABASE MANAGEMENT
  
- Modify, move or delete records
+ Used to Modify, move or delete records
 
 ![](Records.gif)
 

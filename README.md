@@ -11,6 +11,10 @@ LIBRARIES USED:
   - Seaborn
   - Pandas
 
+## CHOOSE YOUR FAVORITE THEME
+
+![](color1.gif)
+
 ## LOGIN WINDOW
 
 Users log in with their username and password. This information exists in a database and is compared with the information that the user entered in the text input. By default, an administrator user must exist to be able to change, modify or create new users. This can be changed for different purposes.

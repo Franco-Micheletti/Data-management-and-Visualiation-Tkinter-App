@@ -11,9 +11,9 @@ LIBRARIES USED:
   - Seaborn
   - Pandas
 
-## COLOR THEMES
+## ADMIN TAB
 
-![](color1.gif)
+![](admin_tab.gif)
 
 ## LOGIN WINDOW
 
@@ -33,3 +33,6 @@ It's the table connected directly with the database and shows real time informat
 
 ![](Records.gif)
 
+## COLOR THEMES
+
+![](color1.gif)

@@ -11,7 +11,7 @@ LIBRARIES USED:
   - Seaborn
   - Pandas
 
-## CHOOSE YOUR FAVORITE THEME
+## COLOR THEMES
 
 ![](color1.gif)
 

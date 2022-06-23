@@ -4,7 +4,7 @@
 LIBRARIES USED:
 
   - Datetime
-  - Tkinter
+  - Custom Tkinter ( https://github.com/TomSchimansky/CustomTkinter ) Thanks Tom !
   - Matplotlib
   - SQLite3
   - Os
